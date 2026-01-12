@@ -8,3 +8,6 @@ npm run tauri dev
 
 For Android development, run:
 npm run tauri android dev
+
+Build with devtools:
+npm run tauri build -- --debug
